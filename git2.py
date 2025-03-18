@@ -7,3 +7,4 @@ b=int(input("másik számot:"))
 print(f"összegük: {a+b}")
 for i in range(4):
     print("Vége")
+print("Vége x2")
